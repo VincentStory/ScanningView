@@ -4,9 +4,7 @@ Android自定义View 病毒查杀效果。可以根据自己的需求配置View�
 
 效果图：
 
-
-![效果图]
-<img src="https://github.com/VincentStory/ScanningView/blob/master/1698028618986.jpg" width="100px">
+<img src="https://github.com/VincentStory/ScanningView/blob/master/1698028618986.jpg" width="300px">
 
 
 
